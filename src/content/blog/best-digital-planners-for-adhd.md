@@ -81,7 +81,7 @@ The act of handwriting engages different parts of the brain and can improve reca
 
 This one surprises people, but hear me out. A well-designed **PDF planner** — used on an iPad or printed out — can outperform app-based systems for a lot of ADHD brains. Why? Because the structure is already decided for you. There's no setting up, no template-hunting, no customization rabbit hole.
 
-Our **[Focus & Flow Planner](https://www.etsy.com/listing/4526964043/adhd-planner-printable)** was built specifically with ADHD in mind — with dedicated spaces for brain dumps, priority ranking, time-blocking, and a "done" section that makes it easy to see your wins at the end of the day (not just what you didn't finish). It works beautifully in GoodNotes or printed, and because the layout is pre-built, you spend your energy on actually planning instead of on the planner itself.
+Our **[Focus & Flow Planner](https://adhd-blog-kappa.vercel.app/go?to=etsy&src=blog)** was built specifically with ADHD in mind — with dedicated spaces for brain dumps, priority ranking, time-blocking, and a "done" section that makes it easy to see your wins at the end of the day (not just what you didn't finish). It works beautifully in GoodNotes or printed, and because the layout is pre-built, you spend your energy on actually planning instead of on the planner itself.
 
 This is especially useful if you're someone who tends to get lost in app setup — you open it, and it's already ready.
 
@@ -107,7 +107,7 @@ There's no single best digital planner for ADHD — because ADHD isn't one thing
 
 What matters most is finding something that matches how your brain actually works on a Tuesday afternoon when executive function is running low — not how you wish your brain worked on a productive Sunday morning.
 
-Try one thing from this list. Use it for two weeks before you decide whether it's working. And if you're looking for a planner that's already designed to get out of your way and help you actually move, the [Focus & Flow Planner](https://www.etsy.com/listing/4526964043/adhd-planner-printable) is a solid place to start.
+Try one thing from this list. Use it for two weeks before you decide whether it's working. And if you're looking for a planner that's already designed to get out of your way and help you actually move, the [Focus & Flow Planner](https://adhd-blog-kappa.vercel.app/go?to=etsy&src=blog) is a solid place to start.
 
 Your brain isn't broken. Your planner just might be.
 
