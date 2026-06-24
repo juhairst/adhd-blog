@@ -18,6 +18,6 @@ This blog is different. Everything here is built specifically for ADHD and neuro
 
 ## Our free planner
 
-We built the [Focus & Flow Planner](https://www.etsy.com/shop/YourShop) specifically for ADHD brains — five pages covering time-blocking, dopamine tracking, procrastination intervention, and hyperfocus sessions. Available on Etsy as a printable PDF.
+We built the [Focus & Flow Planner](https://www.etsy.com/listing/4526964043/adhd-planner-printable) specifically for ADHD brains — five pages covering time-blocking, dopamine tracking, procrastination intervention, and hyperfocus sessions. Available on Etsy as a printable PDF.
 
 Subscribe to the newsletter below for one ADHD tip per week. No fluff. Just what works.

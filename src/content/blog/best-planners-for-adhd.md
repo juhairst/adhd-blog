@@ -77,7 +77,7 @@ It has time-blocked daily layouts, weekly check-ins, and a monthly reflection pa
 
 ### The Focus & Flow Planner
 
-If you want something designed with ADHD brains specifically in mind, the **[Focus & Flow Planner](https://www.etsy.com/shop/YourShop)** is worth a serious look.
+If you want something designed with ADHD brains specifically in mind, the **[Focus & Flow Planner](https://www.etsy.com/listing/4526964043/adhd-planner-printable)** is worth a serious look.
 
 What makes it different from a standard planner: it leads with your top three priorities instead of a sprawling task list (because ADHD brains don't need more things to stare at — they need fewer, clearer things). The daily layout includes a time-block section, a quick brain dump space for the mental overflow, and an end-of-day question that's short enough to actually answer. No 12-step reflection ritual. No color-coded habit grids.
 
