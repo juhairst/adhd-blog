@@ -1,0 +1,26 @@
+---
+import Layout from './Layout.astro';
+const { frontmatter } = Astro.props;
+const { title, description, pubDate, tags, affiliate } = frontmatter;
+const dateStr = new Date(pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<Layout title={title} description={description}>
+  <article class='post'>
+    {affiliate && (
+      <p class='affiliate-notice'>
+        <strong>Disclosure:</strong> This post contains affiliate links. If you buy through them, we earn a small commission at no extra cost to you.
+      </p>
+    )}
+    <h1>{title}</h1>
+    <p class='post-date'>{dateStr}</p>
+    {tags && <div class='tags'>{tags.map(t => <span class='tag'>#{t}</span>)}</div>}
+    <div class='post-content'>
+      <slot />
+    </div>
+    <div class='newsletter-cta'>
+      <h3>Get weekly ADHD tips in your inbox</h3>
+      <p>No fluff. One tip per week. Built for how your brain actually works.</p>
+      <a href='https://www.theeverythingnewsletter.beehiiv.com/subscribe' class='btn'>Subscribe Free</a>
+    </div>
+  </article>
+</Layout>
