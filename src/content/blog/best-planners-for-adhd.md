@@ -119,6 +119,17 @@ The most important thing isn't finding the perfect system. It's finding one that
 
 Start simple. Stay flexible. And stop blaming yourself for the graveyard of planners. That wasn't a character flaw. It was a mismatch — and now you know what to look for instead.
 
+
+## Top Picks on Amazon
+
+These ADHD-friendly tools pair perfectly with a time-blocking planner:
+
+- **[Visual countdown timers](https://www.amazon.com/s?k=adhd+visual+timer&tag=gameairplay-20)** — make time *visible* to beat time blindness
+- **[Desk whiteboards](https://www.amazon.com/s?k=desk+whiteboard&tag=gameairplay-20)** — a brain-dump surface you can't ignore
+- **[Fidget tools for adults](https://www.amazon.com/s?k=fidget+tools+for+adults&tag=gameairplay-20)** — quiet focus aids for restless hands
+- **[Planner binders & refills](https://www.amazon.com/s?k=planner+binder&tag=gameairplay-20)** — keep your printed pages organized
+
+
 ---
 
 *Want more ADHD tools that actually work? [Subscribe to our free newsletter](https://www.theeverythingnewsletter.beehiiv.com/subscribe) — one tip per week, no fluff.*

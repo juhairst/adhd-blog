@@ -144,6 +144,17 @@ Start with what's actually costing you the most right now. Phone constantly pull
 
 The tools aren't the hard part. Consistently showing up to use them is. And for that — there's no app yet. That part is still on you.
 
+
+## Top Picks on Amazon
+
+Focus apps work even better with the right environment:
+
+- **[Noise-cancelling headphones](https://www.amazon.com/s?k=noise+cancelling+headphones&tag=gameairplay-20)** — block what apps can't
+- **[White noise machines](https://www.amazon.com/s?k=white+noise+machine&tag=gameairplay-20)** — steady background for deep work
+- **[Blue light glasses](https://www.amazon.com/s?k=blue+light+glasses&tag=gameairplay-20)** — for long screen-focus sessions
+- **[Visual focus timers](https://www.amazon.com/s?k=adhd+visual+timer&tag=gameairplay-20)** — Pomodoro made visible
+
+
 ---
 
 *Want more ADHD tools that actually work? [Subscribe to our free newsletter](https://adhd-blog-kappa.vercel.app/go?to=newsletter&src=blog) — one tip per week, no fluff.*

@@ -111,6 +111,17 @@ Try one thing from this list. Use it for two weeks before you decide whether it'
 
 Your brain isn't broken. Your planner just might be.
 
+
+## Top Picks on Amazon
+
+To get the most out of a digital planner, these help:
+
+- **[Tablet styluses](https://www.amazon.com/s?k=tablet+stylus+pen&tag=gameairplay-20)** — smooth handwriting in GoodNotes/Notability
+- **[Paper-like screen protectors](https://www.amazon.com/s?k=paperlike+screen+protector&tag=gameairplay-20)** — that real-paper writing feel
+- **[Adjustable tablet stands](https://www.amazon.com/s?k=adjustable+tablet+stand&tag=gameairplay-20)** — ergonomic planning at your desk
+- **[Visual timers](https://www.amazon.com/s?k=adhd+visual+timer&tag=gameairplay-20)** — pair with your time-blocks
+
+
 ---
 
 *Want more ADHD tools that actually work? [Subscribe to our free newsletter](https://www.theeverythingnewsletter.beehiiv.com/subscribe) — one tip per week, no fluff.*
