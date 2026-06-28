@@ -1,5 +1,12 @@
 {
   "rewrites": [
-    { "source": "/go", "destination": "http://167.233.136.56:8088/go" }
+    {
+      "source": "/go",
+      "destination": "http://167.233.136.56:8088/go"
+    },
+    {
+      "source": "/waitlist",
+      "destination": "http://167.233.136.56:8088/waitlist"
+    }
   ]
 }
